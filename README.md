@@ -1,5 +1,6 @@
 # dirsearch2
 dirsearch
+
 Bolt
 
 1. view page saurce ( its written on bolt)
@@ -136,3 +137,18 @@ Schematics
 1. Dirsearch -I link
 2. %
 3. Sqlmap –cookie=”PHPSESSID=…” -u link/index.php –forms –columns –random-agent
+
+
+
+
+Flags:
+Bolt - CTF{b12e3b34c581d4f3c66c00cc7f8dabec8838dab0acf26c2cfbe2f7d291326f75}
+Elastic - CTF{265b92ed0091f139fdcd438196426f205fed9b14bce765bafd8344b1d96183e5}
+Libssh - CTF{754a4874399c6c15f6f12d31bccb438d1d42b540e5cec9c2371a831bb1eabeed}
+Phpunit - CTF{8c7795c5332da1491741a61fe780006a619273444bfe54aff555e28f83e3b123}
+Non-diff Backdoor - CTF{87702788126237df9c4a915fea9441345dc6b3a0272b214b2c31e50a8f89c4b1}
+Shark - CTF{4b08602e0090f81707b98ca687a5cacfd32888ffceef1d3cff2d99e6034b1e58}
+Authorization - 
+online-encryption - ECSC{dd545fbf12fd608daa8c201f50f95c8520bec9f744a3573b1dc0bc53ce019726}
+Sweet-and-sour - 
+Schematics - CTF{1nformat1on_sch3ma_c4n_cont41n_us3ful_d4t4}
